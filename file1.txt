@@ -1,1 +1,2 @@
 "This is second demo project2"
+hiee this is editing in github after editing goto cmd and enter the command git pull origin
